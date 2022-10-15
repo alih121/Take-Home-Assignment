@@ -1,0 +1,11 @@
+﻿  Enemy.cpp
+  Game.cpp
+  GameObject.cpp
+  main.cpp
+  Player.cpp
+  Generating Code...
+Game.obj : error LNK2019: unresolved external symbol "public: int __cdecl GameObject::setHealth(int)" (?setHealth@GameObject@@QEAAHH@Z) referenced in function "public: void __cdecl Game::init(void)" (?init@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol "public: int __cdecl GameObject::setSpeed(int)" (?setSpeed@GameObject@@QEAAHH@Z) referenced in function "public: void __cdecl Game::init(void)" (?init@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol "public: void __cdecl GameObject::render(void)" (?render@GameObject@@QEAAXXZ) referenced in function "public: void __cdecl Game::render(void)" (?render@Game@@QEAAXXZ)
+GameObject.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl GameObject::update(void)" (?update@GameObject@@UEAAXXZ)
+C:\Users\husse\Desktop\College files\Year 3\gp - Game Programming\classroom-code\c-plus-plus\Take-Home-Assignment\x64\Debug\Take-Home-Assignment.exe : fatal error LNK1120: 4 unresolved externals

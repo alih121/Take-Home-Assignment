@@ -1,0 +1,7 @@
+﻿  Enemy.cpp
+C:\Users\husse\Desktop\College files\Year 3\gp - Game Programming\classroom-code\c-plus-plus\Take-Home-Assignment\Take-Home-Assignment\Enemy.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game.cpp
+  GameObject.cpp
+C:\Users\husse\Desktop\College files\Year 3\gp - Game Programming\classroom-code\c-plus-plus\Take-Home-Assignment\Take-Home-Assignment\GameObject.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Take-Home-Assignment.vcxproj -> C:\Users\husse\Desktop\College files\Year 3\gp - Game Programming\classroom-code\c-plus-plus\Take-Home-Assignment\Debug\Take-Home-Assignment.exe
